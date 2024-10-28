@@ -101,7 +101,6 @@ torchrun --nproc_per_node 1 example_chat_completion.py \
 ```
 
 Llama 2 is a new technology that carries potential risks with use. Testing conducted to date has not — and could not — cover all scenarios.
-In order to help developers address these risks, we have created the [Responsible Use Guide](Responsible-Use-Guide.pdf). More details can be found in our research paper as well.
 
 ## Model Card
 See [MODEL_CARD.md](MODEL_CARD.md).
@@ -109,5 +108,3 @@ See [MODEL_CARD.md](MODEL_CARD.md).
 ## License
 
 Our model and weights are licensed for both researchers and commercial entities, upholding the principles of openness. Our mission is to empower individuals, and industry through this opportunity, while fostering an environment of discovery and ethical AI advancements. 
-
-See the [LICENSE](LICENSE) file, as well as our accompanying [Acceptable Use Policy](USE_POLICY.md)
